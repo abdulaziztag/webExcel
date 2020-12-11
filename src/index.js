@@ -1,3 +1,4 @@
 import './scss/index.scss'
+import printMe from './print.js'
 
-console.log('Working!')
+console.log('!!!dqwdw')
